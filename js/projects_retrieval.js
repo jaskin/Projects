@@ -9,7 +9,7 @@ $(function(){
     projects_content = new Array();
 
     /* PERSONALIZE THIS CONTENT FOR YOUR FORKED COPY */
-    repository_user = "OpenInnovationNetwork"; //eg. in github.com/OpenInnovationNetwork/Projects/, it is "OpenInnovationNetwork"
+    repository_user = "jaskin"; //eg. in github.com/OpenInnovationNetwork/Projects/, it is "OpenInnovationNetwork"
     repository_name = "Projects"; //eg. in github.com/OpenInnovationNetwork/Projects/, it is "Projects"
 
 
