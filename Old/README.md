@@ -3,7 +3,7 @@ The Projects repository for Open Innovation Network
 
 Available at
 
-http://jaskin.github.io/Projects/
+http://openinnovationnetwork.github.io/Projects/
 
 ---
 
